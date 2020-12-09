@@ -1,4 +1,6 @@
-### Hi there 👋
+### Profile Stats
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=praneethpr&show_icons=true&include_all_commits=true&hide=stars&count_private=true&cache_seconds=3600)](https://github.com/praneethpr)
 
 <!--
 **praneethpr/praneethpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
